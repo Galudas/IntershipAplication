@@ -1,4 +1,4 @@
-#Intro:
+Intro:
 Imi cer scuze că nu am reușit să dau mai multe commituri, însă din cauza programului aglomerat de la școala, abia acum 4 zile am reușit sa mă apuc de ea și am uitat sa mai dau
 un commit din când in când.
 Despre Aplicație:
